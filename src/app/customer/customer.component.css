@@ -1,0 +1,8 @@
+.customer {
+    width: 500px;
+    height: 300px;
+    padding: 10px;
+    margin: 10px auto;
+    border: 1px solid gray;
+    background: gainsboro;
+}
